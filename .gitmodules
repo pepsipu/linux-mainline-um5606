@@ -1,0 +1,3 @@
+[submodule "linux-mainline-um5606"]
+	path = linux-mainline-um5606
+	url = https://aur.archlinux.org/linux-mainline-um5606.git
